@@ -3,7 +3,9 @@
 This project uses Python to analyze 369,712 ballets and determine:
 1. the winner of a Colorado election, 
 2. the proportion and number of votes that each candidate won,
-3. the proportion and number of votes that each county cast.\
+3. the proportion and number of votes that each county cast.
+\
+The results are summarized in a txt file.
 ## **Results**
 Three contestents and three counties competed in the election. A total of 369,712 voters participated. The winner was Diana DeGette. She won 73.8% of the vote with 272,892 ballets. Charles Stockham came in second (23% of the vote). Raymon Doane brought up the rear (3.1% of the vote). Denver county submited the most ballets (306,055). This means it had nearly 8x more voters than Jefferson or Arapahoe County.
 ## **Recommendations**
@@ -26,4 +28,6 @@ In every loop iteration, the number of votes increases by the candidate name.\
 \
 !["For_Statement"](https://github.com/dagibbins186/Election_Analysis/blob/main/Images/For_Statement.png)\
 \
-Some modifications could also help to make the results clearer. For instance, with more counties, it may be worthwhile to state the total number of counties participating, not list them. Then, the results could just show the top three counties. As the data set increases, summaries that show the key results, not all of the results, will help the reader. 
+Some modifications could also help to make the results clearer. For instance, with more counties, it may be worthwhile to state the total number of counties participating, not list them. Then, the results could just show the top three counties. As the data set increases, summaries that show the key results, not all of the results, will help the reader.
+\
+In addition, the next iteration could improve upon the statistical analysis. Other figures might include the % of votes that a candidate recieves from each county; not just the % of votes that a candidate receives among all counties. 
