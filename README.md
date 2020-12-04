@@ -30,4 +30,5 @@ In every loop iteration, the number of votes increases by the candidate name.\
 \
 Some modifications could also help to make the results clearer. For instance, with more counties, it may be worthwhile to state the total number of counties participating, not list them. Then, the results could just show the top three counties. As the data set increases, summaries that show the key results, not all of the results, will help the reader.
 \
+\
 In addition, the next iteration could improve upon the statistical analysis. Other figures might include the % of votes that a candidate recieves from each county; not just the % of votes that a candidate receives among all counties. 
