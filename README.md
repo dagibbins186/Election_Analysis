@@ -17,4 +17,4 @@ To use the script at scale, the following checks are recommended:
 A. Make sure to capture a distinct count.\
 For example:
 This code uses if statements to achieve a distinct count.\
-!("Distinct_Count")[https://github.com/dagibbins186/Election_Analysis/blob/main/Images/Distinct_Count.png]
+!("Distinct_Count.png")[https://github.com/dagibbins186/Election_Analysis/blob/main/Images/Distinct_Count.png]
