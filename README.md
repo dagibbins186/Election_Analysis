@@ -15,7 +15,8 @@ This code uses if statements to achieve a distinct count.\
 \
 !["Distinct_Count"](https://github.com/dagibbins186/Election_Analysis/blob/main/Images/Distinct_Count.png)\
 \
-Here the "if candidate_name not in candidate_options" line renders the distinct name.\ 
+Here the "if candidate_name not in candidate_options" line renders the distinct name. 
+\
 \
 **B.** Total all the values inside a list
 To count all the elements inside of a list, a for loop is used. The code initializes the count variable (votes) to 0 and loops through the list (e.g. candidate name).\
